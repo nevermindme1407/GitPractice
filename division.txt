@@ -1,0 +1,5 @@
+value1 = 3
+value2 = 2
+ 
+res = value1/value2
+print (res)
